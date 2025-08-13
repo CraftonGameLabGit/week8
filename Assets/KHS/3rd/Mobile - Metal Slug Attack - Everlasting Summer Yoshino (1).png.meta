@@ -1,0 +1,4309 @@
+fileFormatVersion: 2
+guid: acaa164ddbf1d4249bc66a76ec1b51d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5128432284646668124
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_0
+  - first:
+      213: 3871622484192330203
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_1
+  - first:
+      213: -5129854473400240767
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_2
+  - first:
+      213: -8500683412491179577
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_3
+  - first:
+      213: 3882180406996567321
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_4
+  - first:
+      213: 1029495709213377147
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_5
+  - first:
+      213: -3763640754233690653
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_6
+  - first:
+      213: -525158714866472845
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_7
+  - first:
+      213: 8585201195189275487
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_8
+  - first:
+      213: 2409386002084308394
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_9
+  - first:
+      213: 7847990518174097161
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_10
+  - first:
+      213: -8958421317219252266
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_11
+  - first:
+      213: -1237223114245046090
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_12
+  - first:
+      213: 4722994503769121699
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_13
+  - first:
+      213: -1163691543875659656
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_14
+  - first:
+      213: 8546390710151355263
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_15
+  - first:
+      213: 6675066428006232284
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_16
+  - first:
+      213: -9036666340291444388
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_17
+  - first:
+      213: -1130824723671968768
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_18
+  - first:
+      213: 2198137448193693398
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_19
+  - first:
+      213: -6177110431885169726
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_20
+  - first:
+      213: -3065559815144958385
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_21
+  - first:
+      213: -5156760699128746881
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_22
+  - first:
+      213: -8262678199898188799
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_23
+  - first:
+      213: -4152424802645446515
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_24
+  - first:
+      213: -3891289362237973176
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_25
+  - first:
+      213: -7811603997884325148
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_26
+  - first:
+      213: 8354409183145488981
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_27
+  - first:
+      213: 7314511566759445051
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_28
+  - first:
+      213: -433569849000650077
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_29
+  - first:
+      213: -5741289131231895258
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_30
+  - first:
+      213: -6653463293534747652
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_31
+  - first:
+      213: 4482399571778615351
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_32
+  - first:
+      213: 261559476871426864
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_33
+  - first:
+      213: -2234335829626591307
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_34
+  - first:
+      213: 3149680364621469550
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_35
+  - first:
+      213: 8128496560130820867
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_36
+  - first:
+      213: -6483328290026215629
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_37
+  - first:
+      213: 7656487708086271318
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_38
+  - first:
+      213: -8604499959336127542
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_39
+  - first:
+      213: 6494037659831612879
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_40
+  - first:
+      213: 1582505406094602680
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_41
+  - first:
+      213: -5511685748156343628
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_42
+  - first:
+      213: -5801382431125779863
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_43
+  - first:
+      213: -5281444075025476788
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_44
+  - first:
+      213: 6476589085155013561
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_45
+  - first:
+      213: 1441169169802458238
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_46
+  - first:
+      213: -729709388327802826
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_47
+  - first:
+      213: 1777554234813340709
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_48
+  - first:
+      213: 3320626195223904442
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_49
+  - first:
+      213: 6967530065444989757
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_50
+  - first:
+      213: 4045551633239441145
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_51
+  - first:
+      213: 665073015467232209
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_52
+  - first:
+      213: -4805834764551382595
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_53
+  - first:
+      213: -6023903513091507791
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_54
+  - first:
+      213: -3465507690606715010
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_55
+  - first:
+      213: -1614751304144908595
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_56
+  - first:
+      213: -2050984273872202101
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_57
+  - first:
+      213: -8907374180130823702
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_58
+  - first:
+      213: 1513791242932779822
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_59
+  - first:
+      213: 3010661941389760435
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_60
+  - first:
+      213: 3939905505410104483
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_61
+  - first:
+      213: 462693209255197148
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_62
+  - first:
+      213: 407627962224455277
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_63
+  - first:
+      213: -477395265211187634
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_64
+  - first:
+      213: 1517893847263012099
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_65
+  - first:
+      213: -6499109901211484370
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_66
+  - first:
+      213: 5277538988623618104
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_67
+  - first:
+      213: 148906376802931302
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_68
+  - first:
+      213: -8822906119110766638
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_69
+  - first:
+      213: -8661940396556701212
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_70
+  - first:
+      213: -6429313066227580365
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_71
+  - first:
+      213: 5956347491019128260
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_72
+  - first:
+      213: 358183241562468593
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_73
+  - first:
+      213: -149394194764559568
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_74
+  - first:
+      213: 7209510788901130128
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_75
+  - first:
+      213: 3542776435819969856
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_76
+  - first:
+      213: -529621417694694678
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_77
+  - first:
+      213: 2917999552669984934
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_78
+  - first:
+      213: 6565049291639804262
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_79
+  - first:
+      213: 5638438905469355703
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_80
+  - first:
+      213: -1016187580665971097
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_81
+  - first:
+      213: -5965374820343086620
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_82
+  - first:
+      213: -6247381075046237462
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_83
+  - first:
+      213: -7376846014500698383
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_84
+  - first:
+      213: 5329006730011296748
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_85
+  - first:
+      213: -5859360124471811679
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_86
+  - first:
+      213: 4222439526675246998
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_87
+  - first:
+      213: -8376800264604655159
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_88
+  - first:
+      213: 1952651556114761259
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_89
+  - first:
+      213: 5873477470816807951
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_90
+  - first:
+      213: 3145641334353681498
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_91
+  - first:
+      213: 7126659697394216990
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_92
+  - first:
+      213: -6601875595006984437
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_93
+  - first:
+      213: -6410286537601289751
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_94
+  - first:
+      213: 6170957787365132287
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_95
+  - first:
+      213: -6303165349077364540
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_96
+  - first:
+      213: -3591038547751087909
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_97
+  - first:
+      213: -3043629066167517947
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_98
+  - first:
+      213: -1706136461122400071
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_99
+  - first:
+      213: -3951372885089088263
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_100
+  - first:
+      213: 5918585049378421386
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_101
+  - first:
+      213: -410382620442395701
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_102
+  - first:
+      213: -6838363129774805857
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_103
+  - first:
+      213: -919078453619609607
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_104
+  - first:
+      213: 3383084098774134609
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_105
+  - first:
+      213: 991304571203033730
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_106
+  - first:
+      213: -4805740829066409679
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_107
+  - first:
+      213: 1388796598942406551
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_108
+  - first:
+      213: 8698844278385218020
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_109
+  - first:
+      213: -341854487878839043
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_110
+  - first:
+      213: -142775049403467423
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_111
+  - first:
+      213: -8738140379067507555
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_112
+  - first:
+      213: -7798819021334299910
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_113
+  - first:
+      213: -1401585349223850921
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_114
+  - first:
+      213: 3064924990894135257
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_115
+  - first:
+      213: -853352482101266939
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_116
+  - first:
+      213: -6388580234099248716
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_117
+  - first:
+      213: -2523355147986345657
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_118
+  - first:
+      213: 4311874567999413207
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_119
+  - first:
+      213: 3107631681882860666
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_120
+  - first:
+      213: -8120640861406321664
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_121
+  - first:
+      213: 1226554925107263635
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_122
+  - first:
+      213: 3092578633078149360
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_123
+  - first:
+      213: -3804506914207984251
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_124
+  - first:
+      213: 6144295421116027489
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_125
+  - first:
+      213: -261264160640425890
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_126
+  - first:
+      213: -7039295201235423540
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_127
+  - first:
+      213: -2142372699202569875
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_128
+  - first:
+      213: -3668190383405807015
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_129
+  - first:
+      213: 4135017810546677317
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_130
+  - first:
+      213: 3245283111291577880
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_131
+  - first:
+      213: -6310776826195015104
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_132
+  - first:
+      213: 9136165788618050564
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_133
+  - first:
+      213: 8645423901944310208
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_134
+  - first:
+      213: -7045571192295353995
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_135
+  - first:
+      213: 5229128641805860454
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_136
+  - first:
+      213: 6330676578239401003
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_137
+  - first:
+      213: 835300940682682679
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_138
+  - first:
+      213: 9049984620669672344
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_139
+  - first:
+      213: -9064526931282899562
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_140
+  - first:
+      213: -3144042678519655220
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_141
+  - first:
+      213: -6977440928393175240
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_142
+  - first:
+      213: 6198492745846741103
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_143
+  - first:
+      213: 6053036855519302350
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_144
+  - first:
+      213: 7523224701738179948
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_145
+  - first:
+      213: -109283691562342751
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_146
+  - first:
+      213: -7276731885710809871
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_147
+  - first:
+      213: -3873636941350720064
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_148
+  - first:
+      213: 1322357023138403491
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_149
+  - first:
+      213: 334198923552485603
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_150
+  - first:
+      213: -4294175929458666068
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_151
+  - first:
+      213: 1531777406104215348
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_152
+  - first:
+      213: -4081466842495761971
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_153
+  - first:
+      213: 8108757105078425394
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_154
+  - first:
+      213: 5623406910999984006
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_155
+  - first:
+      213: 7153092652477315741
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_156
+  - first:
+      213: 7326613020119660495
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_157
+  - first:
+      213: 7602622006353405072
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_158
+  - first:
+      213: -1879737313707359898
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_159
+  - first:
+      213: -6937694711096746575
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_160
+  - first:
+      213: -4318091614366223880
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_161
+  - first:
+      213: 4068714269542923989
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_162
+  - first:
+      213: -3116724965267972647
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_163
+  - first:
+      213: -5899929412329517727
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_164
+  - first:
+      213: -245419893640500590
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_165
+  - first:
+      213: -6582090734582476134
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_166
+  - first:
+      213: 8961137651905663117
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_167
+  - first:
+      213: 5943386615215425166
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_168
+  - first:
+      213: -19465144413731450
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_169
+  - first:
+      213: -1251938073572894749
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_170
+  - first:
+      213: -8675600198639569950
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_171
+  - first:
+      213: 8899369558181645327
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_172
+  - first:
+      213: 5745361265402011663
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_173
+  - first:
+      213: -3859882191088598437
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_174
+  - first:
+      213: 7741318723561412889
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_175
+  - first:
+      213: 7163719509155039766
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_176
+  - first:
+      213: 3551221961197870278
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_177
+  - first:
+      213: -6975431625097434588
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_178
+  - first:
+      213: -3770533700089963684
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_179
+  - first:
+      213: 5044785559367032857
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_180
+  - first:
+      213: -7256198988297030608
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_181
+  - first:
+      213: 7955558117652277830
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_182
+  - first:
+      213: 5971833655590575703
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_183
+  - first:
+      213: -4384113255044583578
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_184
+  - first:
+      213: -5741623561396028501
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_185
+  - first:
+      213: -4283218617511834290
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_186
+  - first:
+      213: -4886940619956500977
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_187
+  - first:
+      213: 1284882963206659984
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_188
+  - first:
+      213: 860941595352531575
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_189
+  - first:
+      213: -1360862683083942710
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_190
+  - first:
+      213: 6567272210537297620
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_191
+  - first:
+      213: 6847811079578724213
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_192
+  - first:
+      213: -5365868537835823186
+    second: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 777
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9150301f28640e530800000000000000
+      internalID: 3882180406996567321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 777
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72c37d94e0894e00800000000000000
+      internalID: 1029495709213377147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 777
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5b7b5bcacd4cbc0800000000000000
+      internalID: -3763640754233690653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 777
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378eea56ee246b8f0800000000000000
+      internalID: -525158714866472845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 777
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b048c2003c42770800000000000000
+      internalID: 8585201195189275487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 777
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5a80dadcbdf6120800000000000000
+      internalID: 2409386002084308394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 777
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f966cbbc9a9ec60800000000000000
+      internalID: 7847990518174097161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 777
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d70cd6964b4da380800000000000000
+      internalID: -8958421317219252266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 777
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.48480904, y: 0.50067526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b08587f12084dee0800000000000000
+      internalID: -1237223114245046090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 777
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3e7494a727b8140800000000000000
+      internalID: 4722994503769121699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 777
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8785a23d4bcb9dfe0800000000000000
+      internalID: -1163691543875659656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 777
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b1546f111ea9670800000000000000
+      internalID: 8546390710151355263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 768
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0727ddc8992ac50800000000000000
+      internalID: 6675066428006232284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 763
+        width: 70
+        height: 56
+      alignment: 9
+      pivot: {x: 0.567225, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51033187df479280800000000000000
+      internalID: -9036666340291444388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_18
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 763
+        width: 70
+        height: 54
+      alignment: 9
+      pivot: {x: 0.56162286, y: 0.50726205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0049d4ab7e08e40f0800000000000000
+      internalID: -1130824723671968768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_19
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 763
+        width: 70
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5644235, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d69117ec5a518e10800000000000000
+      internalID: 2198137448193693398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_20
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 763
+        width: 70
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5756278, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbef193ace764aa0800000000000000
+      internalID: -6177110431885169726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_21
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 763
+        width: 70
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5756269, y: 0.4835739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4692941791f475d0800000000000000
+      internalID: -3065559815144958385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_22
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 763
+        width: 69
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6165064, y: 0.49335337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c6cb047718f68b0800000000000000
+      internalID: -5156760699128746881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 722
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10454b964f1155d80800000000000000
+      internalID: -8262678199898188799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 722
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80fbc974af9f56c0800000000000000
+      internalID: -4152424802645446515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 722
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d9c8521fc5ff9c0800000000000000
+      internalID: -3891289362237973176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 722
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e265143d8b979390800000000000000
+      internalID: -7811603997884325148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 722
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f5a573e2d0f370800000000000000
+      internalID: 8354409183145488981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 722
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32ce2a148d528560800000000000000
+      internalID: 7314511566759445051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 722
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa1ffcf486abf9f0800000000000000
+      internalID: -433569849000650077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 722
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621ac1c24f7d250b0800000000000000
+      internalID: -5741289131231895258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_31
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 722
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c2c6d2662aa3a0800000000000000
+      internalID: -6653463293534747652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_32
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 722
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7383a3969aea43e30800000000000000
+      internalID: 4482399571778615351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 722
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033fe8a55fe31a300800000000000000
+      internalID: 261559476871426864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 722
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7ed26a66b0ef0e0800000000000000
+      internalID: -2234335829626591307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_35
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 694
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6719499a99e5bb20800000000000000
+      internalID: 3149680364621469550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_36
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 694
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b05980e883ec070800000000000000
+      internalID: 8128496560130820867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_37
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 694
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3372fb635479606a0800000000000000
+      internalID: -6483328290026215629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_38
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 694
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d70a3310f414a60800000000000000
+      internalID: 7656487708086271318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_39
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 694
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac338e520eca69880800000000000000
+      internalID: -8604499959336127542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_40
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 694
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5b54048d47f1a50800000000000000
+      internalID: 6494037659831612879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 667
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b17769484036f510800000000000000
+      internalID: 1582505406094602680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 667
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bade83a30f8283b0800000000000000
+      internalID: -5511685748156343628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 667
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a4e8a7a695d7fa0800000000000000
+      internalID: -5801382431125779863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 667
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43d307989a84b6b0800000000000000
+      internalID: -5281444075025476788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 667
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b336d0657771e950800000000000000
+      internalID: 6476589085155013561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 667
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74f15b69bf000410800000000000000
+      internalID: 1441169169802458238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 667
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638247f6d2d8fd5f0800000000000000
+      internalID: -729709388327802826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_48
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 667
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c5a0f98242ba810800000000000000
+      internalID: 1777554234813340709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_49
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 667
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab08d2e5eeb351e20800000000000000
+      internalID: 3320626195223904442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_50
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 667
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3be3b0dda3a1b060800000000000000
+      internalID: 6967530065444989757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_51
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 667
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fefcb3b6cfa42830800000000000000
+      internalID: 4045551633239441145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_52
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 667
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db4f944260da3900800000000000000
+      internalID: 665073015467232209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_53
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 667
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db911b97ebe3e4db0800000000000000
+      internalID: -4805834764551382595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 579
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b71353a51508c920800000000000000
+      internalID: 3010661941389760435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_61
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 579
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac3392ce2b5da630800000000000000
+      internalID: 3939905505410104483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 579
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd934a9b501db6600800000000000000
+      internalID: 462693209255197148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 594
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.69636154, y: 0.101161145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ea7e0d87f28a500800000000000000
+      internalID: 407627962224455277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 594
+        width: 52
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7898489, y: 0.12260155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e32af1983ff59f0800000000000000
+      internalID: -477395265211187634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 594
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: 0.7688904, y: 0.35639146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305ecd47964a01510800000000000000
+      internalID: 1517893847263012099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_66
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 594
+        width: 41
+        height: 44
+      alignment: 9
+      pivot: {x: 0.7847692, y: 0.43727666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fb0168af58ec5a0800000000000000
+      internalID: -6499109901211484370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_67
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 594
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.8396538, y: 0.6319597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8306f21afb59d3940800000000000000
+      internalID: 5277538988623618104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_68
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 594
+        width: 40
+        height: 24
+      alignment: 9
+      pivot: {x: 0.7706566, y: 0.8538005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662112e8f85011200800000000000000
+      internalID: 148906376802931302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_69
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 594
+        width: 43
+        height: 27
+      alignment: 9
+      pivot: {x: 0.81101954, y: 0.77518266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df48c361adbe8580800000000000000
+      internalID: -8822906119110766638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_70
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 594
+        width: 46
+        height: 31
+      alignment: 9
+      pivot: {x: 0.73535687, y: 0.6575002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1b1ad2a1b9ac780800000000000000
+      internalID: -8661940396556701212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_71
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 594
+        width: 57
+        height: 18
+      alignment: 9
+      pivot: {x: 0.61544853, y: 0.9717339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3324ab984dd76c6a0800000000000000
+      internalID: -6429313066227580365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_72
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 594
+        width: 54
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6179301, y: 0.9580785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdfbf82c7239a250800000000000000
+      internalID: 5956347491019128260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_73
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 594
+        width: 54
+        height: 20
+      alignment: 9
+      pivot: {x: 0.63758457, y: 0.9351715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f034dda2c588f400800000000000000
+      internalID: 358183241562468593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_74
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 516
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b8d8975ce3dedf0800000000000000
+      internalID: -149394194764559568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_75
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 516
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f4cc86dd35d0460800000000000000
+      internalID: 7209510788901130128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 516
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d7cafd5687a2130800000000000000
+      internalID: 3542776435819969856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_78
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 491
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8a4a70221de7820800000000000000
+      internalID: 2917999552669984934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_82
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 387
+        width: 70
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6391938, y: 0.49999946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e10461f43bb63da0800000000000000
+      internalID: -5965374820343086620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_83
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 387
+        width: 73
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6334732, y: 0.51391846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeafe552308dc49a0800000000000000
+      internalID: -6247381075046237462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_84
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 387
+        width: 66
+        height: 90
+      alignment: 9
+      pivot: {x: 0.60544956, y: 0.024419488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f60eee42ad20a990800000000000000
+      internalID: -7376846014500698383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 387
+        width: 59
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5884699, y: 0.016482705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce34dfbf26f64f940800000000000000
+      internalID: 5329006730011296748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_86
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 387
+        width: 50
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4652008, y: 0.1309241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1e4c1d20f5faea0800000000000000
+      internalID: -5859360124471811679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_87
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 387
+        width: 57
+        height: 97
+      alignment: 9
+      pivot: {x: 0.20695896, y: 0.16995145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69feb09c06e199a30800000000000000
+      internalID: 4222439526675246998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_88
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 387
+        width: 65
+        height: 73
+      alignment: 9
+      pivot: {x: 0.22696486, y: 0.43802926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c167d1aa80afbb80800000000000000
+      internalID: -8376800264604655159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_89
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 387
+        width: 66
+        height: 71
+      alignment: 9
+      pivot: {x: 0.2153755, y: 0.45889756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b268554ae36391b10800000000000000
+      internalID: 1952651556114761259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_91
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 387
+        width: 60
+        height: 68
+      alignment: 9
+      pivot: {x: 0.14044088, y: 0.4903991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cdfe4902097ab20800000000000000
+      internalID: 3145641334353681498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_92
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 387
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.18947124, y: 0.5254221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1076427c3bf6e260800000000000000
+      internalID: 7126659697394216990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_93
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 387
+        width: 62
+        height: 50
+      alignment: 9
+      pivot: {x: 0.1736844, y: 0.6508978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fb944ef1d6164a0800000000000000
+      internalID: -6601875595006984437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_94
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 387
+        width: 59
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16101696, y: 0.64046127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e17ec17b561a07a0800000000000000
+      internalID: -6410286537601289751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_95
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 387
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.15651652, y: 0.6361677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff744d79965a3a550800000000000000
+      internalID: 6170957787365132287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_96
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 387
+        width: 60
+        height: 48
+      alignment: 9
+      pivot: {x: 0.140566, y: 0.7155635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c051b7b288a688a0800000000000000
+      internalID: -6303165349077364540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_97
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 387
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.1381607, y: 0.5256992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0df8a87711a2ec0800000000000000
+      internalID: -3591038547751087909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_98
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 387
+        width: 59
+        height: 76
+      alignment: 9
+      pivot: {x: 0.14343883, y: 0.38620678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50df70b7d7bd2c5d0800000000000000
+      internalID: -3043629066167517947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_99
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 387
+        width: 39
+        height: 101
+      alignment: 9
+      pivot: {x: 0.28437063, y: 0.29089385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b015789de59258e0800000000000000
+      internalID: -1706136461122400071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_100
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 387
+        width: 59
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6633218, y: 0.35705966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc8729db47e929c0800000000000000
+      internalID: -3951372885089088263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_101
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 387
+        width: 70
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5745675, y: 0.48757118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a73219eb9032250800000000000000
+      internalID: 5918585049378421386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_102
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 387
+        width: 70
+        height: 56
+      alignment: 9
+      pivot: {x: 0.58451104, y: 0.48757118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb79865e270e4af0800000000000000
+      internalID: -410382620442395701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_103
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 276
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ce4a4f6f04911a0800000000000000
+      internalID: -6838363129774805857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 276
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffa9431407ce33f0800000000000000
+      internalID: -919078453619609607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_105
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 276
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f64b0401123fe20800000000000000
+      internalID: 3383084098774134609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_106
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 276
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a17ce5142d1cd00800000000000000
+      internalID: 991304571203033730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_107
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 276
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139c7e88d249e4db0800000000000000
+      internalID: -4805740829066409679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_108
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 276
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7979b39062ff54310800000000000000
+      internalID: 1388796598942406551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_109
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 276
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1179168c088b870800000000000000
+      internalID: 8698844278385218020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_110
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 276
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4db1d872d714bf0800000000000000
+      internalID: -341854487878839043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_112
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 276
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c1f243f93ebb680800000000000000
+      internalID: -8738140379067507555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_113
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 276
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa3fc58b6705c390800000000000000
+      internalID: -7798819021334299910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_114
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 276
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cde110d819c8ce0800000000000000
+      internalID: -1401585349223850921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_115
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 276
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d756716a0dc88a20800000000000000
+      internalID: 3064924990894135257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_116
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 276
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506f72450784824f0800000000000000
+      internalID: -853352482101266939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_117
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 276
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1be6f00243757a0800000000000000
+      internalID: -6388580234099248716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_118
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 276
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741ee1abcdd3bfcd0800000000000000
+      internalID: -2523355147986345657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_119
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 276
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db55a5031bd6db30800000000000000
+      internalID: 4311874567999413207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_120
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 276
+        width: 39
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ca06bbc86802b20800000000000000
+      internalID: 3107631681882860666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_121
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 276
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004aa5b5920bd4f80800000000000000
+      internalID: -8120640861406321664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_122
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 276
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3983680b439950110800000000000000
+      internalID: 1226554925107263635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_123
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 276
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f01690b1eb0bea20800000000000000
+      internalID: 3092578633078149360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_125
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 251
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1621ea2b12ce44550800000000000000
+      internalID: 6144295421116027489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_129
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 187
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac79cf748f71dc0800000000000000
+      internalID: -3668190383405807015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_130
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 187
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5465c895ac8826930800000000000000
+      internalID: 4135017810546677317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_131
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 187
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816eb14abcf890d20800000000000000
+      internalID: 3245283111291577880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_132
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 187
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a01e999ed9b68a0800000000000000
+      internalID: -6310776826195015104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_133
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 187
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cc7a7116e2ace70800000000000000
+      internalID: 9136165788618050564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_134
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 187
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9ef00cb37baf770800000000000000
+      internalID: 8645423901944310208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 187
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5719283645a193e90800000000000000
+      internalID: -7045571192295353995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_136
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 187
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eb8ab6bc8919840800000000000000
+      internalID: 5229128641805860454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_137
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 187
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c48d97ec41bd750800000000000000
+      internalID: 6330676578239401003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_138
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 187
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731e0f9a7c5979b00800000000000000
+      internalID: 835300940682682679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_139
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 187
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b93c94011089d70800000000000000
+      internalID: 9049984620669672344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_140
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 187
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dcbeb28c4543280800000000000000
+      internalID: -9064526931282899562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_141
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 187
+        width: 72
+        height: 47
+      alignment: 9
+      pivot: {x: 0.51201797, y: 0.5214779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc41b2c77dd1e54d0800000000000000
+      internalID: -3144042678519655220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_142
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 187
+        width: 48
+        height: 45
+      alignment: 9
+      pivot: {x: 0.62532425, y: 0.5576843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f5ad591762b2f90800000000000000
+      internalID: -6977440928393175240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_143
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 187
+        width: 76
+        height: 44
+      alignment: 9
+      pivot: {x: 0.806423, y: 0.5150833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68d703bf48750650800000000000000
+      internalID: 6198492745846741103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_144
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 187
+        width: 77
+        height: 50
+      alignment: 9
+      pivot: {x: 0.27659628, y: 0.43549073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2539123f4b00450800000000000000
+      internalID: 6053036855519302350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_145
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 187
+        width: 90
+        height: 56
+      alignment: 9
+      pivot: {x: 0.2491984, y: 0.43132618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d5c88a10dd76860800000000000000
+      internalID: 7523224701738179948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_146
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 187
+        width: 71
+        height: 60
+      alignment: 9
+      pivot: {x: 0.36607683, y: 0.38452327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6eea0cf0fbb7ef0800000000000000
+      internalID: -109283691562342751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_147
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 187
+        width: 67
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6140702, y: 0.4419417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4e27a57ead30b90800000000000000
+      internalID: -7276731885710809871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_148
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 187
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.62570626, y: 0.44186532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cda5f9a9b31e3ac0800000000000000
+      internalID: -3873636941350720064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_149
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 187
+        width: 69
+        height: 56
+      alignment: 9
+      pivot: {x: 0.58742005, y: 0.50746346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a45866d4b4f95210800000000000000
+      internalID: 1322357023138403491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_150
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 120
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0f9aa762053a400800000000000000
+      internalID: 334198923552485603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_151
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 120
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca555916eb50864c0800000000000000
+      internalID: -4294175929458666068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_152
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 120
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f9fc56f67f14510800000000000000
+      internalID: 1531777406104215348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_153
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 120
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc141820887bb57c0800000000000000
+      internalID: -4081466842495761971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_154
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 120
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237df1200a7188070800000000000000
+      internalID: 8108757105078425394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_155
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 120
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68771ad9aca5a0e40800000000000000
+      internalID: 5623406910999984006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_156
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 120
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9afd546ed3e44360800000000000000
+      internalID: 7153092652477315741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_157
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 120
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7fbf649bb5da560800000000000000
+      internalID: 7326613020119660495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_158
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 120
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09423423f60f18960800000000000000
+      internalID: 7602622006353405072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_159
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 120
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6610d695fd4d9e5e0800000000000000
+      internalID: -1879737313707359898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_160
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 120
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdd8f0fa6b58bf90800000000000000
+      internalID: -6937694711096746575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_161
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 120
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1bb121e8e0314c0800000000000000
+      internalID: -4318091614366223880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_162
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 120
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de3ba8321af67830800000000000000
+      internalID: 4068714269542923989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_163
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 120
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd5c9e382b2fb4d0800000000000000
+      internalID: -3116724965267972647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_164
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 120
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d483a657d3f1ea0800000000000000
+      internalID: -5899929412329517727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_165
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 120
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6eb238e7189cf0800000000000000
+      internalID: -245419893640500590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_166
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 120
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9252dda957b7a4a0800000000000000
+      internalID: -6582090734582476134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_167
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 120
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80173d573b5c5c70800000000000000
+      internalID: 8961137651905663117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_168
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 120
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e860aba13a62b7250800000000000000
+      internalID: 5943386615215425166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_169
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 120
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685c7b5ed88dabff0800000000000000
+      internalID: -19465144413731450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_170
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 120
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e796e384f830aee0800000000000000
+      internalID: -1251938073572894749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_174
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52ce450991fe6ac0800000000000000
+      internalID: -3859882191088598437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_175
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91955f22d50be6b60800000000000000
+      internalID: 7741318723561412889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_176
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ac8b540f4aa6360800000000000000
+      internalID: 7163719509155039766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_177
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 5
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccd3cbfe89784130800000000000000
+      internalID: 3551221961197870278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aaa07f4e9423f90800000000000000
+      internalID: -6975431625097434588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_179
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b9f70b39f5cabc0800000000000000
+      internalID: -3770533700089963684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_180
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 5
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a712ecbda20640800000000000000
+      internalID: 5044785559367032857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_181
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 5
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034b103177dcc4b90800000000000000
+      internalID: -7256198988297030608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_182
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 38
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aa3a825f1d76e60800000000000000
+      internalID: 7955558117652277830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_183
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 5
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ed233d11730e250800000000000000
+      internalID: 5971833655590575703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_184
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 5
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f6cf9f8308823c0800000000000000
+      internalID: -4384113255044583578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_186
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 43
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d0edf5c53fe84c0800000000000000
+      internalID: -4283218617511834290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_192
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 5
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577264745ef480f50800000000000000
+      internalID: 6847811079578724213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e769ed9041531524399fc143094c350f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_54: 1152622532
+      Mobile - Metal Slug Attack - Everlasting Summer Yoshino (1)_55: 943655339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
